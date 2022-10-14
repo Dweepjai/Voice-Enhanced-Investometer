@@ -2,11 +2,12 @@
 
 ## Key Features:
 
-    🟢 Fully mobile responsive clean UI.
-    🟢 Voice enabled to categorise investment into Equity and Crypto-Currency.
+    🟢 Two asset classes to categorise investments into Equity and Crypto-Currency.
     🟢 Investments can be added both manually or by voice.
-    🟢 Real time chart to show income and expenses.
     🟢 MongoDB to save the data.
+    🟢 Google OAuth and JWT for authentication.
+    🟢 Real time chart to show income and expenses.
+    🟢 Fully mobile responsive with clean and simple UI.
 
 
 ## Technologies used:
