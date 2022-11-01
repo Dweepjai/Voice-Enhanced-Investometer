@@ -1,6 +1,6 @@
 # Voice Enhanced MERN Investometer
 
-## Link: mern-investometer.herokuapp.com
+## [View the live deployment here](https://mern-investometer.herokuapp.com) 
 
 ## Key Features:
 
